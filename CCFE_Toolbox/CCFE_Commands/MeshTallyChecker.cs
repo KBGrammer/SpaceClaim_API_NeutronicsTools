@@ -27,7 +27,7 @@ namespace CCFE_Toolbox.CCFE_Commands
         // This command name must match that in the Ribbon.xml file
         //----------------------------------------------------------
         public bool first = true;
-        public string directory = @"C:\ProgramData\SpaceClaim\AddIns\Samples\V18\CCFE_Toolkit\Resources\PythonScripts\Mesh_tally_checker.scscript";
+        public string directory = @"C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScripts\Mesh_tally_checker.scscript";
         public const string CommandName = "CCFE_Toolbox.C#.V18.MTC";
 
         public MeshTallyChecker() : base(CommandName, Resources.MTCText, Resources.mtc_image, Resources.MTCHint)

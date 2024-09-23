@@ -179,7 +179,7 @@ namespace CCFE_Toolbox.UI
             // 
             // button6
             // 
-            this.button6.BackColor = System.Drawing.Color.Red;
+            this.button6.BackColor = System.Drawing.Color.Orange;
             this.button6.Location = new System.Drawing.Point(321, 196);
             this.button6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button6.Name = "button6";

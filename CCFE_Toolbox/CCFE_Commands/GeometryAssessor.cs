@@ -29,7 +29,7 @@ namespace CCFE_Toolbox.CCFE_Commands
         // This command name must match that in the Ribbon.xml file
         //----------------------------------------------------------
         public bool first = true;
-        public string directory = @"C:\ProgramData\SpaceClaim\AddIns\Samples\V18\CCFE_Toolkit\Resources\PythonScripts\Geometry_assessor.scscript";
+        public string directory = @"C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScripts\Geometry_assessor.scscript";
         public const string CommandName = "CCFE_Toolbox.C#.V18.GA";
 
         public GeometryAssessor() : base(CommandName, Resources.GeomAssText, Resources.ga_image, Resources.GeomAssHint)

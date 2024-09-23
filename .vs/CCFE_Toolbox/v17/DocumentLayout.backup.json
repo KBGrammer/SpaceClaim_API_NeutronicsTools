@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\geometryassessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\geometryassessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ui\\geometryassessorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ui\\geometryassessorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\volumeassessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\volumeassessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\voidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\voidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\pipeseperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\pipeseperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\meshtallywriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\meshtallywriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\meshtallychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\meshtallychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\cylinderplaneseperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\cylinderplaneseperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\ccfe_toolbox\\ccfe_commands\\cylinderplaneedgechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\cylinderplaneedgechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CCFE_Toolbox||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometryAssessorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\GeometryAssessorForm.Designer.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\UI\\GeometryAssessorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\GeometryAssessorForm.Designer.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\UI\\GeometryAssessorForm.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAwLEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:59:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeometryAssessor.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAqwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:37.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VolumeAssessor.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\VolumeAssessor.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\VolumeAssessor.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\VolumeAssessor.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\VolumeAssessor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:30.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoidGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\VoidGenerator.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\VoidGenerator.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\VoidGenerator.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\VoidGenerator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PipeSeperator.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\PipeSeperator.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\PipeSeperator.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\PipeSeperator.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\PipeSeperator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:28.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeshTallyWriter.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MeshTallyWriter.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\MeshTallyWriter.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MeshTallyWriter.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\MeshTallyWriter.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeshTallyChecker.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MeshTallyChecker.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\MeshTallyChecker.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MeshTallyChecker.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\MeshTallyChecker.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CylinderPlaneSeperator.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneSeperator.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneSeperator.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneSeperator.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneSeperator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:40:21.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CylinderPlaneEdgeChecker.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:16.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CCFE_Toolbox",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Toolbox.csproj",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Toolbox.csproj",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Toolbox.csproj",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Toolbox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T14:32:46.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

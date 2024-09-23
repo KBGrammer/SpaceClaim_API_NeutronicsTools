@@ -2,14 +2,14 @@
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Configuration>Debug</Configuration>
     <ProjectGuid>{B529D8C7-515F-441D-927C-821AD95E7A55}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CCFE_Toolbox</RootNamespace>
     <AssemblyName>CCFE_Toolbox</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>c:\ProgramData\SpaceClaim\AddIns\Samples\V18\CCFE_Toolkit\</OutputPath>
+    <OutputPath>..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -35,23 +35,30 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Scripting">
-      <HintPath>C:\Program Files\ANSYS Inc\v182\scdm\Microsoft.Scripting.dll</HintPath>
+      <HintPath>C:\Program Files\ANSYS Inc\v242\scdm\Microsoft.Scripting.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="SpaceClaim.Api.V16, Version=16.1.17034.0, Culture=neutral, PublicKeyToken=7210645d4d5e3a39, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v195\scdm\SpaceClaim.Api.V16\SpaceClaim.Api.V16.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\SpaceClaim.Api.V16\SpaceClaim.Api.V16.dll</HintPath>
     </Reference>
     <Reference Include="SpaceClaim.Api.V16.Scripting, Version=16.0.0.0, Culture=neutral, PublicKeyToken=7210645d4d5e3a39, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v195\scdm\SpaceClaim.Api.V16.Scripting.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\SpaceClaim.Api.V16.Scripting.dll</HintPath>
     </Reference>
     <Reference Include="SpaceClaim.Api.V18, Version=18.1.17034.0, Culture=neutral, PublicKeyToken=7210645d4d5e3a39, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v195\scdm\SpaceClaim.Api.V18\SpaceClaim.Api.V18.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\SpaceClaim.Api.V18\SpaceClaim.Api.V18.dll</HintPath>
     </Reference>
     <Reference Include="SpaceClaim.Api.V18.Scripting">
-      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v195\scdm\SpaceClaim.Api.V18.Scripting.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\SpaceClaim.Api.V18.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="SpaceClaim.Api.V242, Version=242.1.22413.0, Culture=neutral, PublicKeyToken=7210645d4d5e3a39, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\SpaceClaim.Api.V242\SpaceClaim.Api.V242.dll</HintPath>
+    </Reference>
+    <Reference Include="SpaceClaim.Api.V242.Scripting">
+      <HintPath>..\..\..\..\..\..\Program Files\ANSYS Inc\v242\scdm\SpaceClaim.Api.V242.Scripting.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
