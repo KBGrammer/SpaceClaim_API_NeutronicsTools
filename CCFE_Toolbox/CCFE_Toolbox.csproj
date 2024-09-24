@@ -74,6 +74,7 @@
   <ItemGroup>
     <Compile Include="CCFE_Commands\BodySelect.cs" />
     <Compile Include="CCFE_Commands\CylinderPlaneEdgeChecker.cs" />
+    <Compile Include="CCFE_Commands\MaterialRenaming.cs" />
     <Compile Include="CCFE_Commands\MeshTallyChecker.cs" />
     <Compile Include="CCFE_Commands\VolumeAssessor.cs" />
     <Compile Include="CCFE_Commands\MeshTallyWriter.cs" />
@@ -105,6 +106,12 @@
     </Compile>
     <Compile Include="UI\BodySelectForm.Designer.cs">
       <DependentUpon>BodySelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MaterialRenamingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MaterialRenamingForm.Designer.cs">
+      <DependentUpon>MaterialRenamingForm.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\VoidGeneratorForm.cs">
       <SubType>Form</SubType>
@@ -182,6 +189,9 @@
     <EmbeddedResource Include="UI\BodySelectForm.resx">
       <DependentUpon>BodySelectForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UI\MaterialRenamingForm.resx">
+      <DependentUpon>MaterialRenamingForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\VoidGeneratorForm.resx">
       <DependentUpon>VoidGeneratorForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -220,6 +230,7 @@
     <Content Include="CCFE_Toolbox_Manifest.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\mr_image.png" />
     <None Include="Resources\Image1.png" />
     <None Include="Resources\mtw_image1.png" />
     <None Include="Resources\cpec_image.png" />
@@ -232,6 +243,7 @@
     <None Include="Resources\PythonScripts\Geometry_assessor.scscript">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="Resources\PythonScripts\Material_Renaming.scscript" />
     <None Include="Resources\PythonScripts\Mesh_tally_checker.scscript" />
     <None Include="Resources\PythonScripts\Mesh_tally_writer.scscript">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

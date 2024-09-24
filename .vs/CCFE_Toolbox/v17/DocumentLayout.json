@@ -3,10 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CCFE_Toolbox||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ccfe_commands\\materialrenaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\materialrenaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ui\\materialrenamingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ui\\materialrenamingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ui\\materialrenamingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ui\\materialrenamingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ui\\materialrenamingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ui\\materialrenamingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ccfe_commands\\geometryassessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\geometryassessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\resources\\ribbon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\resources\\ribbon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ui\\geometryassessorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ui\\geometryassessorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ui\\geometryassessorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ui\\geometryassessorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ccfe_commands\\cylinderplaneedgechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\cylinderplaneedgechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|c:\\users\\gkg\\source\\repos\\spaceclaim_api_neutronicstools\\ccfe_toolbox\\ccfe_commands\\maxsurfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B529D8C7-515F-441D-927C-821AD95E7A55}|CCFE_Toolbox\\CCFE_Toolbox.csproj|solutionrelative:ccfe_toolbox\\ccfe_commands\\maxsurfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +53,136 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ribbon.xml",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\Resources\\Ribbon.xml",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\Resources\\Ribbon.xml",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\Resources\\Ribbon.xml",
+              "RelativeToolTip": "CCFE_Toolbox\\Resources\\Ribbon.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-24T15:42:57.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CCFE_Toolbox",
-              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Toolbox.csproj",
-              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Toolbox.csproj",
-              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Toolbox.csproj",
-              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Toolbox.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T14:32:46.082Z",
+              "Title": "MaterialRenaming.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MaterialRenaming.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\MaterialRenaming.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MaterialRenaming.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\MaterialRenaming.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:05:43.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaxSurfaces.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MaxSurfaces.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\MaxSurfaces.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\MaxSurfaces.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\MaxSurfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:42:29.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialRenamingForm.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\MaterialRenamingForm.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\UI\\MaterialRenamingForm.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\MaterialRenamingForm.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\UI\\MaterialRenamingForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:22:27.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeometryAssessorForm.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\GeometryAssessorForm.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\UI\\GeometryAssessorForm.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\GeometryAssessorForm.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\UI\\GeometryAssessorForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:20:10.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeometryAssessorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\GeometryAssessorForm.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\UI\\GeometryAssessorForm.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\GeometryAssessorForm.cs [Design]",
+              "RelativeToolTip": "CCFE_Toolbox\\UI\\GeometryAssessorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:12:38.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaterialRenamingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\Source\\Repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\MaterialRenamingForm.Designer.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\UI\\MaterialRenamingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gkg\\Source\\Repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\MaterialRenamingForm.Designer.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\UI\\MaterialRenamingForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:11:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialRenamingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\MaterialRenamingForm.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\UI\\MaterialRenamingForm.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\UI\\MaterialRenamingForm.cs [Design]",
+              "RelativeToolTip": "CCFE_Toolbox\\UI\\MaterialRenamingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:11:11.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeometryAssessor.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\GeometryAssessor.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwJcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:04:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CylinderPlaneEdgeChecker.cs",
+              "DocumentMoniker": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "RelativeDocumentMoniker": "CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "ToolTip": "C:\\Users\\gkg\\source\\repos\\SpaceClaim_API_NeutronicsTools\\CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "RelativeToolTip": "CCFE_Toolbox\\CCFE_Commands\\CylinderPlaneEdgeChecker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwB0AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:47:16.356Z",
               "EditorCaption": ""
             }
           ]

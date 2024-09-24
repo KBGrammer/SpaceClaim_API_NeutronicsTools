@@ -19,7 +19,7 @@ namespace CCFE_Toolbox.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -295,6 +295,24 @@ namespace CCFE_Toolbox.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Rename objects based on material.
+        /// </summary>
+        internal static string MatRenameHint {
+            get {
+                return ResourceManager.GetString("MatRenameHint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Material renamer.
+        /// </summary>
+        internal static string MatRenameText {
+            get {
+                return ResourceManager.GetString("MatRenameText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Highlight bodies with many surfaces.
         /// </summary>
         internal static string MaxSurfaceHint {
@@ -309,6 +327,16 @@ namespace CCFE_Toolbox.Properties {
         internal static string MaxSurfaceText {
             get {
                 return ResourceManager.GetString("MaxSurfaceText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mr_image {
+            get {
+                object obj = ResourceManager.GetObject("mr_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -460,7 +488,8 @@ namespace CCFE_Toolbox.Properties {
         ///				&lt;!-- 
         ///					For the &apos;tab&apos; and &apos;group&apos; elements, you can either specify a &apos;label&apos; attribute, or you can
         ///					specify a &apos;command&apos; attribute.  The &apos;command&apos; attribute gives the name of a command that you
-        ///					create, whose Text property will be used for the label.  This approach allows for localization        /// [rest of string was truncated]&quot;;.
+        ///					create, whose Text property will be used for the label.  This approach allows for localization
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Ribbon {
             get {

@@ -24,15 +24,15 @@ namespace CCFE_Toolbox.CCFE_Commands
 {
     //class ScriptClass : 
 
-    class GeometryAssessor : CommandCapsule
+    class MaterialRenaming : CommandCapsule
     {
         // This command name must match that in the Ribbon.xml file
         //----------------------------------------------------------
         public bool first = true;
-        public string directory = @"C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScripts\Geometry_assessor.scscript";
-        public const string CommandName = "CCFE_Toolbox.C#.V18.GA";
+        public string directory = @"C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScripts\Material_Renaming.scscript";
+        public const string CommandName = "CCFE_Toolbox.C#.V18.MR";
 
-        public GeometryAssessor() : base(CommandName, Resources.GeomAssText, Resources.ga_image, Resources.GeomAssHint)
+        public MaterialRenaming() : base(CommandName, Resources.GeomAssText, Resources.mr_image, Resources.GeomAssHint)
         {
 
         }
@@ -64,39 +64,8 @@ namespace CCFE_Toolbox.CCFE_Commands
 
                 // Dialogue variables
                 string filename;
-                Color coneclr;
-                Color nurbsclr;
-                Color onaclr;
-                Color offaclr;
-                Color procclr;
 
-                // Get save location via user input
-                //using (var dialogue = new SaveFileDialog())
-                //{
-                //    dialogue.FileName = "GeometryReport.txt";
-                //    dialogue.DefaultExt = "txt";
-                //    dialogue.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
-                //    dialogue.FilterIndex = 2;
-                //    dialogue.OverwritePrompt = true;
-                //
-                //    if (dialogue.ShowDialog() != DialogResult.OK)
-                //        return;
-                //
-                //    var nameAndRendering = new List<KeyValuePair<string, Graphic>>();
-                //    var partToGraphic = new Dictionary<Part, Graphic>();
-                //
-                //    var style = new GraphicStyle
-                //    {
-                //        EnableDepthBuffer = true
-                //    };
-                //
-                //    filePath = dialogue.FileName;
-                //}
-
-                //if (window == null)
-                //    return;
-
-                using(var form = new UI.GeometryAssessorForm())
+                using(var form = new UI.MaterialRenamingForm())
                 {
                     if (form.ShowDialog() != DialogResult.OK)
                         return;
@@ -110,11 +79,6 @@ namespace CCFE_Toolbox.CCFE_Commands
                     };
 
                     filename = form.FileName;
-                    coneclr = form.color1;
-                    nurbsclr = form.color2;
-                    onaclr = form.color3;
-                    offaclr = form.color4;
-                    procclr = form.color5;
 
                 }
 
@@ -124,32 +88,10 @@ namespace CCFE_Toolbox.CCFE_Commands
                     // To pass args to python script
                 var scriptParams = new Dictionary<string, object>();
                 scriptParams.Add("filepath", filename);
-                scriptParams.Add("conea", Convert.ToInt32(coneclr.A));
-                scriptParams.Add("coner", Convert.ToInt32(coneclr.R));
-                scriptParams.Add("coneg", Convert.ToInt32(coneclr.G));
-                scriptParams.Add("coneb", Convert.ToInt32(coneclr.B));
-                scriptParams.Add("nurba", Convert.ToInt32(nurbsclr.A));
-                scriptParams.Add("nurbr", Convert.ToInt32(nurbsclr.R));
-                scriptParams.Add("nurbg", Convert.ToInt32(nurbsclr.G));
-                scriptParams.Add("nurbb", Convert.ToInt32(nurbsclr.B));
-                scriptParams.Add("onaa", Convert.ToInt32(onaclr.A));
-                scriptParams.Add("onar", Convert.ToInt32(onaclr.R));
-                scriptParams.Add("onag", Convert.ToInt32(onaclr.G));
-                scriptParams.Add("onab", Convert.ToInt32(onaclr.B));
-                scriptParams.Add("offaa", Convert.ToInt32(offaclr.A));
-                scriptParams.Add("offar", Convert.ToInt32(offaclr.R));
-                scriptParams.Add("offag", Convert.ToInt32(offaclr.G));
-                scriptParams.Add("offab", Convert.ToInt32(offaclr.B));
-                scriptParams.Add("proca", Convert.ToInt32(procclr.A));
-                scriptParams.Add("procr", Convert.ToInt32(procclr.R));
-                scriptParams.Add("procg", Convert.ToInt32(procclr.G));
-                scriptParams.Add("procb", Convert.ToInt32(procclr.B));
 
                 // Run the script w/ args
                 SpaceClaim.Api.V18.Application.RunScript(directory, scriptParams);
 
-                // Show txt output
-                //Process.Start(filename);
             }
 
             else

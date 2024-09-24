@@ -1,21 +1,3 @@
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.csproj.AssemblyReference.cache
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.Properties.Resources.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.BodySelectForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.VoidGeneratorForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MeshTallyWriterForm2.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MeshTallyWriterForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.GeometryAssessorForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MeshTallyCheckerForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.VolumeAssessorForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.CCFE_Commands.PipeRadiusOptions.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.Pipes_Radius.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.CCFE_Commands.tori_simp.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.LostParticlesForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MaxSurfacesForm.resources
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.csproj.GenerateResource.cache
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.csproj.CoreCompileInputs.cache
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.dll
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.pdb
 C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\CCFE_Toolbox_Manifest.xml
 C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\Resources\PythonScripts\Cylinder-plane_splitter.scscript
 C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\Resources\PythonScripts\Cylinder-plane_locator.scscript
@@ -27,7 +9,6 @@ C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\Resources\PythonScripts\V
 C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\CCFE_Toolbox.dll.config
 C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\CCFE_Toolbox.dll
 C:\Program Files\ANSYS Inc\v242\Addins\NeutronicsTools\CCFE_Toolbox.pdb
-C:\Users\gkg\source\repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Too.467A49B5.Up2Date
 C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\CCFE_Toolbox_Manifest.xml
 C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScripts\Cylinder-plane_splitter.scscript
 C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScripts\Cylinder-plane_locator.scscript
@@ -39,3 +20,23 @@ C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\Resources\PythonScri
 C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\CCFE_Toolbox.dll.config
 C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\CCFE_Toolbox.dll
 C:\Program Files\ANSYS Inc\v242\scdm\Addins\NeutronicsTools\CCFE_Toolbox.pdb
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.csproj.AssemblyReference.cache
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.Properties.Resources.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.BodySelectForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MaterialRenamingForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.VoidGeneratorForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MeshTallyWriterForm2.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MeshTallyWriterForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.GeometryAssessorForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MeshTallyCheckerForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.VolumeAssessorForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.CCFE_Commands.PipeRadiusOptions.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.Pipes_Radius.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.CCFE_Commands.tori_simp.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.LostParticlesForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.UI.MaxSurfacesForm.resources
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.csproj.GenerateResource.cache
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Too.467A49B5.Up2Date
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.dll
+C:\Users\gkg\Source\Repos\SpaceClaim_API_NeutronicsTools\CCFE_Toolbox\obj\Debug\CCFE_Toolbox.pdb

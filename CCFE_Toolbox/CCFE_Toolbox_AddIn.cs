@@ -30,7 +30,8 @@ namespace CCFE_Toolbox
             new CCFE_Commands.MeshTallyWriter(),
             new CCFE_Commands.GeometryAssessor(),
             new CCFE_Commands.VolumeAssessor(),
-            new CCFE_Commands.MeshTallyChecker()
+            new CCFE_Commands.MeshTallyChecker(),
+            new CCFE_Commands.MaterialRenaming()
 
         };
 
